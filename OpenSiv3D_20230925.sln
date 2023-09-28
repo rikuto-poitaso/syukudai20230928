@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenSiv3D_20230925", "OpenSiv3D_20230925\OpenSiv3D_20230925.vcxproj", "{933B7916-294C-4FCB-A483-F9761D729EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933B7916-294C-4FCB-A483-F9761D729EC6}.Debug|x64.ActiveCfg = Debug|x64
+		{933B7916-294C-4FCB-A483-F9761D729EC6}.Debug|x64.Build.0 = Debug|x64
+		{933B7916-294C-4FCB-A483-F9761D729EC6}.Release|x64.ActiveCfg = Release|x64
+		{933B7916-294C-4FCB-A483-F9761D729EC6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C7A67BC-85F5-4DA0-8BCA-EFBA56188F27}
+	EndGlobalSection
+EndGlobal
